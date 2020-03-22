@@ -8,7 +8,7 @@
         <button class="ui positive button">Increase</button>
       </div>
     </div>
-    <Counter msg="Welcome to Counter App"/>
+    <Counter :value="counterValue"/>
   </div>
 </template>
 
@@ -21,6 +21,11 @@ export default {
   components: {
     Counter,
     Header
+  },
+  data: function() {
+    return {
+      counterValue: 0
+    }
   }
 }
 </script>
