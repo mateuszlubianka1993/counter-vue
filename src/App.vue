@@ -1,6 +1,13 @@
 <template>
   <div id="app">
     <Header />
+    <div class="containe">
+      <div class="ui buttons">
+        <button class="ui button">Decrease</button>
+        <div class="or"></div>
+        <button class="ui positive button">Increase</button>
+      </div>
+    </div>
     <Counter msg="Welcome to Counter App"/>
   </div>
 </template>
