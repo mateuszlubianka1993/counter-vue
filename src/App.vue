@@ -3,9 +3,9 @@
     <Header />
     <div class="containe">
       <div class="ui buttons">
-        <button class="ui button">Decrease</button>
+        <button class="ui button" @click="counterValue--">Decrease</button>
         <div class="or"></div>
-        <button class="ui positive button">Increase</button>
+        <button class="ui positive button" @click="counterValue++">Increase</button>
       </div>
     </div>
     <Counter :value="counterValue"/>
