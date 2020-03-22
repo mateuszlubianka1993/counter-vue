@@ -8,10 +8,10 @@
   <h3 align="center">Counter Vue</h3>
 
   <p align="center">
-    Simple couter app
+    Simple counter app.
     <br />
     <br />
-    <a href="https://github.com/github_username/repo">View Demo</a>
+    <a href="https://counter-vue.netlify.com/">View Demo</a>
   </p>
 </p>
 
@@ -22,6 +22,7 @@
 
 * [About the Project](#about-the-project)
   * [Built With](#built-with)
+* [Usage](#usage)
 * [Getting Started](#getting-started)
   * [Prerequisites](#prerequisites)
   * [Installation](#installation)
@@ -42,7 +43,8 @@ This is simple Counter App. You can inrease and decrease number.
 * Java Script
 * Semantic UI
 
-
+## Usage
+![Demo](img/usage.gif)
 
 <!-- GETTING STARTED -->
 ## Getting Started
@@ -84,5 +86,5 @@ npm run lint
 <!-- CONTACT -->
 ## Contact
 
-Project Link: [https://github.com/mateuszlubianka1993/counter-vue](https://github.com/mateuszlubianka1993/counter-vue)
-Live: [https://github.com/mateuszlubianka1993/counter-vue](https://github.com/mateuszlubianka1993/counter-vue)
+* Project Link: [https://github.com/mateuszlubianka1993/counter-vue](https://github.com/mateuszlubianka1993/counter-vue)
+* Live Demo: [https://counter-vue.netlify.com/](https://counter-vue.netlify.com/)
