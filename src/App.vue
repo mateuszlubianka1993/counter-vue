@@ -1,17 +1,19 @@
 <template>
   <div id="app">
-    <img alt="Vue logo" src="./assets/logo.png">
+    <Header />
     <Counter msg="Welcome to Counter App"/>
   </div>
 </template>
 
 <script>
-import Counter from './components/Counter.vue'
+import Counter from './components/Counter.vue';
+import Header from './components/Header';
 
 export default {
   name: 'App',
   components: {
-    Counter
+    Counter,
+    Header
   }
 }
 </script>
