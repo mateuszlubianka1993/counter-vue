@@ -11,7 +11,7 @@
     Simple couter app
     <br />
     <br />
-    <a href="https://github.com/github_username/repo">View Demo</a>
+    <a href="https://counter-vue.netlify.app/">View Demo</a>
   </p>
 </p>
 
